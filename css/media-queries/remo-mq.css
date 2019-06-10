@@ -1,0 +1,523 @@
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+
+/*==========  Mobile First Method  ==========*/
+
+
+/* Custom, iPhone Retina */
+
+@media only screen and (min-width: 320px) {
+    .caption-cta {
+        text-align: center;
+    }
+    .remo-submit {
+        width: 100%;
+        margin-top: 10px
+    }
+    .remo-reset {
+        width: 100%;
+    }
+    .remo-registration .row:nth-child(2) label {
+        letter-spacing: 2px
+    }
+    .remo-registration select {
+        padding: 5px
+    }
+    .remo-activities-wrapper {
+        margin-top: -10px;
+        padding-top: 10px;
+    }
+    .remo-activities-body p {
+        margin-bottom: 45px;
+        padding: 0 10px
+    }
+    .remo-activities-body h1 {
+        font-size: 15px;
+        text-align: left;
+        padding: 0 10px;
+        margin-bottom: 20px
+    }
+    .remo-activities-body h1:nth-child(1) {
+        color: #c4c4c4;
+        font-weight: 700;
+        margin-bottom: 3px
+    }
+    .remo-activities-body h1:nth-child(2) {
+        padding-top: 0;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .featherlight img {
+        width: 100%
+    }
+    .remo-activities-head h1 {
+        font-size: 15px;
+        text-align: left;
+        letter-spacing: 1px
+    }
+    .remo-activities-head h1:last-child {
+        color: #c4c4c4;
+    }
+    .remo-latest-focus {
+        color: #fff1d3;
+    }
+    .remo-activities-head h1 {
+        margin-top: 0;
+    }
+    .remo-activities-list h1 {
+        text-align: left
+    }
+    .remo-login-content-body,
+    .remo-registration-content-body {
+        padding-top: 10px;
+    }
+    .remo-registration-content-body {
+        padding-top: 30px
+    }
+    .lotto-container > .content-body {
+        padding: 40px 10px;
+    }
+    .remo-info-button {
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        background-image: url(../../img/info-button.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        position: absolute;
+        bottom: 16px;
+        right: 17px;
+    }
+    .remo-info-button-promo {
+        border: none !important;
+        padding: 0 !important;
+        width: 20px !important
+    }
+    .ft-2 a,
+    .ft-3 a {
+        border: solid 1px #fff !important;
+        color: #FFF !important;
+        font-weight: 400 !important
+    }
+    .remo-info-button-s {
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        background-image: url(../../img/info-button.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        position: absolute;
+        bottom: 85px;
+        right: 30px;
+    }
+    .sp-promo-container .nav-pager {
+        font-size: 15px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .sp-promo-container .nav-pager span {
+        letter-spacing: -1px
+    }
+    .selectid {
+        display: block;
+        width: 50%;
+        background-size: 25% 100% !important;
+    }
+    .selectfrommonth {
+        width: 35%;
+        background-size: 35% 100% !important;
+    }
+    .selectfromyear {
+        width: 35%;
+        background-size: 35% 100% !important;
+    }
+    .lotto-res .ballot-result td img {
+        width: 10px;
+        display: inline-block;
+    }
+    .ballot-result th {
+        font-size: 12px;
+        white-space: nowrap;
+    }
+    .ballot-result td {
+        font-size: 12px;
+    }
+    .lotto-res .ballot-result-balls {
+        padding: 5px !important;
+    }
+    .sitemap-content {
+        padding-left: auto;
+        text-align: left;
+        margin-top: 20px;
+    }
+    .activities-input {
+        width: 57.5% !important
+    }
+    .container-aboutus {
+        margin-top: auto;
+    }
+    .myaccount .acc-cont input[type=text] {
+        display: block;
+        width: 100%
+    }
+
+    .activities-form select {
+        background-size: 15% 100%;
+    }
+
+    .remo-activities-form input,
+    .remo-activities-form select {
+        background-size: 34% 100% !important;
+    }
+}
+
+@media only screen and (min-width: 375px) {
+    .activities-input {
+        width: 63.5% !important
+    }
+}
+
+@media only screen and (min-width: 414px) {
+    .activities-input {
+        width: 67.5% !important
+    }
+}
+
+
+/* Extra Small Devices, Phones */
+
+@media only screen and (min-width: 480px) {
+    .remo-submit {
+        margin-top: 10px
+    }
+    .remo-activities-list:nth-child(2) {
+        padding-top: 0;
+    }
+}
+
+@media only screen and (min-width: 568px) {
+  .activities-form select {
+      background-size: 8% 100%;
+  }
+
+  .activities-input {
+      width: 76.7% !important
+  }
+
+  .remo-activities-form input,
+  .remo-activities-form select {
+      background-size: 20% 100% !important;
+  }
+}
+
+@media only screen and (min-width: 667px) {
+  .activities-form select {
+      background-size: 7% 100%;
+  }
+
+  .activities-input {
+      width: 80% !important
+  }
+}
+
+@media only screen and (min-width: 736px) {
+  .activities-input {
+      width: 82% !important
+  }
+}
+
+
+/* Small Devices, Tablets */
+
+@media only screen and (min-width: 768px) {
+    .remo-contactus-list ul {
+        display: inline-block;
+        text-align: center;
+    }
+    .remo-form-footer {
+        text-align: left
+    }
+    .remo-submit {
+        margin-top: 0px
+    }
+    .remo-contactus {
+        background-size: 100% 100%;
+    }
+    .wrapper-l {
+        width: 539px;
+        padding: 0;
+        margin: 0px 190px auto;
+    }
+    .lotto-header {
+        margin: 50px 335px auto;
+    }
+    .ball-wrapper {
+        float: left;
+        margin-bottom: 0;
+        border-right: 1px solid #333;
+        border-bottom: 1px solid #333;
+        padding: 5px
+    }
+    .ball-wrapper-no-border {
+        border-right: none
+    }
+    .selectid {
+        display: inline-block;
+        margin-left: 40%;
+        width: 40px;
+        background-size: 35% 100% !important;
+    }
+    .selectfrommonth {
+        width: 85px;
+        background-size: 19% 100% !important;
+    }
+    .selectfromyear {
+        width: 50px;
+        background-size: 29% 100% !important;
+    }
+    .lotto-res .ballot-filter-div:nth-child(3),
+    .ballot-filter-div:nth-child(4) {
+        display: inline-block;
+        width: 28%;
+    }
+}
+
+
+/* Medium Devices, Desktops */
+
+@media only screen and (min-width: 992px) {
+    .remo-form.remo-login,
+    .remo-form.remo-forget {
+        padding: 15px 35px 25px 35px;
+        border: solid 1px #333;
+    }
+    .remo-submit {
+        margin-top: 0px
+    }
+    .remo-registration select {
+        padding: 6px 12px
+    }
+    .remo-sitemap-container {
+        padding: 25px 180px;
+    }
+    .remo-collapse-cross {
+        padding: 15px 0;
+        border-top: 1px solid #333;
+        background: url(../../img/sitemap/cross.png) no-repeat;
+        background-size: 15px;
+        background-position: right;
+    }
+    .remo-collapse-line {
+        background: url(../../img/sitemap/line.png) no-repeat;
+        background-size: 15px;
+        background-position: right;
+        text-decoration: none
+    }
+    .remo-activities-head {
+        padding: 50px 80px 10px;
+    }
+    .remo-activities-body {
+        padding: 20px 80px
+    }
+    .remo-activities-head h1:first-child {
+        margin-top: 50px
+    }
+    .remo-activities-head img {
+        height: 400px;
+    }
+    .remo-activities-head img {
+        width: 90%;
+        height: 300px
+    }
+    .remo-activities-body img:last-child {
+        margin-top: 30px
+    }
+    .remo-activities-body h1 {
+        text-align: center;
+        font-size: 20px;
+        color: #fff1d3
+    }
+    .remo-activities-head h1 {
+        font-size: 15px;
+        text-align: center;
+        letter-spacing: 1px;
+    }
+    .remo-activities-head h1 {
+        margin-top: 25px;
+    }
+    .remo-activities-head h1:last-child {
+        color: #c4c4c4;
+    }
+    .remo-latest-focus {
+        color: #fff1d3;
+        border-bottom: 1px solid #333;
+        padding-bottom: 20px;
+        margin: 0 150px
+    }
+    .remo-activities-list h1 {
+        font-size: 15px;
+        text-align: center
+    }
+    .remo-activities-list {
+        padding: 0 50px
+    }
+    .remo-lotto-content-body {
+        padding: 10px 10px 0px 10px;
+    }
+    .remo-info-button-s {
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        background-image: url(../../img/info-button.png);
+        backgr1ound-repeat: no-repeat;
+        background-size: 100% 100%;
+        position: absolute;
+        bottom: 98px;
+        right: 46px;
+    }
+    .remo-info-button {
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        background-image: url(../../img/info-button.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        position: absolute;
+        bottom: 29px;
+        right: 53px;
+    }
+    .wrapper-l {
+        width: 539px;
+        padding: 0;
+        margin: 0px 190px auto;
+    }
+    .ball-wrapper {
+        float: left;
+        margin-bottom: 0;
+        border-right: 1px solid #333;
+        border-bottom: 1px solid #333;
+        padding: 5px
+    }
+    .ball-wrapper-no-border {
+        border-right: none
+    }
+    .sp-promo-container .nav-pager {
+        font-size: 25px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .sp-promo-container .nav-pager span {
+        letter-spacing: auto
+    }
+    .ballot-filter-div {
+        display: inline-block;
+        width: 19%;
+    }
+    .lotto-res .ballot-filter-div:nth-child(1) {
+        display: inline-block;
+        width: 13%;
+    }
+    .selectid {
+        display: inline-block;
+        margin-left: 0;
+        width: 50px;
+        background-size: 35% 100% !important;
+    }
+    .selectfrommonth {
+        width: 70px;
+        background-size: 19% 100% !important;
+    }
+    .selectfromyear {
+        width: 55px;
+        background-size: 29% 100% !important;
+    }
+    .lotto-res .ballot-filter-div:nth-child(3),
+    .ballot-filter-div:nth-child(4) {
+        display: inline-block;
+        width: 25%;
+    }
+    .lotto-res .ballot-result td img {
+        width: 25px;
+        display: inline-block;
+    }
+    .ballot-result th {
+        font-size: 14px;
+        white-space: nowrap;
+    }
+    .ballot-result td {
+        font-size: 14px
+    }
+    .lotto-res .ballot-result-balls {
+        padding: 8px;
+    }
+    .lotto-res .ballot-filter-div:nth-child(5) {
+        display: inline-block;
+        width: 15%;
+    }
+    .collapse .sp-collapse {
+        display: block;
+        visibility: hidden;
+    }
+    .sitemap-content {
+        padding-left: 150px;
+        text-align: left;
+        margin-top: auto;
+    }
+    .activities-input {
+        width: 67.5% !important
+    }
+    .container-aboutus {
+        margin-top: 10px;
+    }
+    .myaccount .acc-cont input[type=text] {
+        display: inline-block;
+        width: auto;
+    }
+
+    .activities-form select {
+        background-size: 12% 100%;
+    }
+
+    .remo-activities-form input,
+    .remo-activities-form select {
+        background-size: 30% 100% !important;
+    }
+}
+
+
+/* Large Devices, Wide Screens */
+
+@media only screen and (min-width: 1200px) {
+    .remo-sitemap-container {
+        padding: 25px 180px;
+    }
+    .remo-login-content-body,
+    .remo-registration-content-body {
+        padding: 50px 10px 20px 10px;
+        background: #1A1A1A;
+    }
+    .remo-lotto-content-body {
+        padding: 20px 10px 0px 10px;
+    }
+    .remo-lotto-content-body .content-body {
+        padding: 30px 10px
+    }
+    .wrapper-l {
+        width: 539px;
+        padding: 0;
+        margin: 0px 190px auto;
+        margin-top: 15px
+    }
+    .ball-wrapper {
+        float: left;
+        margin-bottom: 0;
+        border-right: 1px solid #333;
+        border-bottom: 1px solid #333;
+        padding: 5px
+    }
+    .ball-wrapper-no-border {
+        border-right: none
+    }
+}

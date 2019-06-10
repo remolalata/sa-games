@@ -1,0 +1,381 @@
+
+.nathan-content-banner{
+text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0 auto;
+  margin-left: -10px;
+margin-right: -10px;
+
+
+
+}
+
+.subtab{
+  border-top: 1px solid #333;
+margin-top: 25px;
+padding-top: 20px;
+}
+
+.activitiesanchor{
+float: right;
+}
+
+.activitiesanchor a{
+color: #fff1d3 !important;
+font-size:17px !important;
+text-decoration: none !important;
+}
+.moz-select select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+}
+ .moz-select select {
+    width: 100%;
+    padding-top: 7px;
+    padding-bottom: 6px;
+    outline: 0;
+    margin-bottom: 0px;
+    border: 0px;
+    background-color: transparent ;
+    text-indent: 0;
+    font-weight: 400;
+    font-size: .875em;
+    line-height: 1.5;
+    box-sizing: border-box;
+    color: #c4c4c4;
+    height: 2.5em;
+    transition: outline .3s;
+    margin: 0;
+        padding-left: 10px;
+}
+
+
+/* remo-style.css */
+
+.remo-registration select {
+appearance:none;
+-moz-appearance:none; /* Firefox */
+-webkit-appearance:none; /* Safari and Chrome */
+}
+
+.remo-registration select{
+background: #333 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAABGCAQAAADBG8qBAAAAkUlEQVR4Ae3O0QmEQBAE0Q3B0AzBYCcAM1qPzmCo4RCsLujvt7L960UTJUrUN1GiRIkSJUqUKFGiRIkSJaru2q2uWp1ybdQRFicxFGCFxFGMBUgA1WCFxFGMBUgA1WCFxFGMBUgA1WCFNI8irJDmUYQV0jyKsEKaRxHWCSgA9beJEiVKlChRokSJEiVKlChRoh4GlelzLr6YJwAAAABJRU5ErkJggg==);
+background-position: 100%;
+background-size: 40px 40px;
+background-repeat: no-repeat;
+border: solid 1px #333;
+border-radius: 0;
+color: #c4c4c4;
+}
+
+.remo-registration select:focus{
+border: solid 1px #fff
+}
+
+.remo-registration select option{
+background: #fff;
+color: #c4c4c4
+}
+
+.content-title h2
+{
+    font-size: 1em;
+    line-height: 25px;
+
+    text-align: center;
+    letter-spacing: 2px;
+
+    color: #fff1d3;
+}
+
+.remo-content-title h1
+{
+    margin: 30px 0 20px 0;
+}
+
+.remo-promotional
+{
+    margin-bottom: 50px;
+}
+
+.remo-contactus
+{
+    background-image: url('../img/contactus/contact_banner.jpg');
+    background-repeat: no-repeat;
+    background-size: 98% 100%;
+}
+
+.remo-contactus h1
+{
+    margin: 30px 0;
+}
+
+.remo-contactus-list ul
+{
+    margin: 0;
+    padding: 0;
+}
+
+.remo-contactus-list ul li
+{
+    margin-bottom: 10px;
+
+    list-style: none;
+    list-style-image: none;
+
+    text-align: left;
+}
+
+.remo-contactus-list ul li a
+{
+    font-size: 14px;
+
+    letter-spacing: .3px;
+
+    color: #fff1d3;
+}
+
+.remo-contactus-list img
+{
+    width: 12px;
+    margin-right: 8px;
+}
+
+.remo-contactus-youko
+{
+    width: 30px !important;
+}
+
+textarea
+{
+    resize: none;
+}
+
+.remo-captcha img
+{
+    height: 35px;
+}
+
+.remo-form input,
+.remo-form textarea
+{
+    font-size: .875em;
+    font-weight: 400;
+    line-height: 1.5;
+
+    box-sizing: border-box;
+    width: 100%;
+    margin-bottom: 2em;
+    padding: 18px 0;
+
+    transition: outline .3s;
+    text-indent: 10px;
+
+    color: #c4c4c4;
+    border: 1px solid #333;
+    border-radius: 0;
+    outline: 1px solid #1a1a1a;
+    outline-offset: 0;
+    background-color: #333;
+    ;
+}
+
+.remo-form input:focus,
+.remo-form textarea:focus
+{
+    transition: border .3s;
+
+    border: solid 1px #fff;
+    box-shadow: none;
+}
+
+.remo-submit
+{
+    font-size: 15px;
+    font-weight: 600;
+
+    margin-bottom: 20px;
+    padding: 10px 20px;
+
+    letter-spacing: .5px;
+
+    color: #1a1a1a;
+    border: solid 1px #fff1d3;
+    border-radius: 0;
+    background: #fff1d3;
+    text-shadow: none;
+}
+
+.remo-reset
+{
+    font-size: 15px;
+    font-weight: 400;
+
+    margin-bottom: 20px;
+    padding: 10px 20px;
+
+    transition: border .3s;
+    letter-spacing: .5px;
+
+    color: #fff;
+    border: 1px solid #333;
+    border-radius: 0;
+    background: #1a1a1a;
+    text-shadow: none;
+}
+
+.remo-submit i,
+.remo-reset i
+{
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.remo-submit:hover
+{
+    font-weight: 400;
+
+    transition: background .3s;
+
+    color: #fff1d3;
+    background: none;
+}
+
+.remo-submit i:hover,
+.remo-reset i
+{
+    font-weight: 400;
+}
+
+.remo-reset:hover
+{
+    color: #fff;
+    border: 1px solid #fff;
+    background: #1a1a1a;
+}
+
+.remo-form label
+{
+    font-weight: 400;
+
+    margin-bottom: 10px;
+
+    letter-spacing: 1px;
+}
+
+.remo-login-title
+{
+    font-size: 18px;
+
+    margin-bottom: 25px;
+
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.remo-form-footer
+{
+    margin: 10px 0 20px;
+
+    text-align: center;
+}
+
+.remo-form-footer h3,
+.remo-form-footer h4
+{
+    margin: 5px 0;
+
+    letter-spacing: .5px;
+}
+
+.remo-form-footer h4 a
+{
+    font-size: 15px;
+
+    text-decoration: underline;
+
+    color: #c4c4c4;
+}
+
+.remo-form-footer h3
+{
+    font-size: 15px;
+
+    color: #c4c4c4;
+}
+
+.remo-form-footer h3 a
+{
+    font-weight: 700;
+
+    text-decoration: underline;
+
+    color: #fff1d3;
+}
+
+.remo-form-footer a:hover
+{
+    text-decoration: none;
+}
+
+.remo-registration
+{
+    /*margin: 30px 0;*/
+    margin-bottom: 40px;
+}
+
+.remo-registration-title
+{
+    font-size: 15px;
+
+    margin: 3px 0;
+
+    text-align: center;
+}
+
+.remo-registration .form-group
+{
+    margin-bottom: 0;
+}
+
+.remo-radio-span{
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAQAAAAm93DmAAAA3klEQVRIx+3WTRHDIBAF4EiIhEpg5hmIBCREAhKQgIRIQEIkIAEJONgemqY5ZPnZcmhn2Hf/hh3CbqZp1L8VFBx20JkIjxWzDFsQLtQ1CbYRxQzPYB9UtzSaCtwrri9HIGw1zdZzBIIpgb6JIxBU/mapOXsODAKQsPDXQaJwVwMnBIkDdynINC3muI/nC9AO8ACjGNS93vE7j3twFXKh1+gqjzBYAZcy+0V0xvyIhe44DQUzJ1atU2zVnKpdpKam2aZlD5Wdjqm47ZiVddd8gBH+3ZysgT2imUc26pfrCYbpSAbqfwojAAAAAElFTkSuQmCC);
+}
+
+.remo-radio
+{
+    display: inline-block;
+
+    width: auto !important;
+    height: 15px;
+    position: absolute;
+    left: -999px
+}
+
+#secondradiobutton{
+  display: none
+}
+
+.radio-inline-no-radio{
+  padding-left: 0
+}
+
+.remo-checkbox
+{
+    width: auto !important;
+}
+
+.remo-at-email::before{
+  content: "@";
+  position: absolute;
+  top: 37px;
+  left: -7px;
+}
+
+.visibility-none
+{
+    visibility: hidden;
+}

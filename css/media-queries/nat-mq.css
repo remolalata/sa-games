@@ -1,0 +1,1045 @@
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+
+
+
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */
+    @media only screen and (min-width : 320px) {
+      .nathan-dollarsign{
+        font-size: 23px;
+      margin-right: -53px;
+      margin-left: 75px;
+      float: left;
+
+      }
+      .nathan-jackpot{
+        margin: 0 auto;
+
+            margin-bottom: 30px;
+      }
+      .nathan-jackpotimage{
+        margin-top: 6px;
+      text-align: center;
+      }
+
+      .jumbo{
+        margin-left: 22px;
+        margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    font-size: 23px;
+    font-weight: 300;
+    letter-spacing: 1px;
+      }
+      .nathan-USER{
+        font-size: 15px;
+      letter-spacing: 1px;
+      margin-top: 5px;
+      margin-left: 11px;
+      display: block;
+
+          text-align: center;
+      }
+      .nathan-winner{
+        float: right;
+  /* margin-left: 6px; */
+  margin-right: 48px;
+  margin-top: 5px;
+      }
+
+      .nathan-myaccountusernamecontent{
+        color:#fcf8e3;
+        margin-bottom: 20px;
+      }
+      .editable ul li {
+          list-style: none;
+          border-top: 1px solid #333;
+          padding-top: 8px;
+          margin-bottom: 2px;
+          padding-bottom: 5px;
+          margin-left: -40px;
+          background-image: url('../../img/rules/arrow-down.png');
+          background-size: 25px 25px;
+          background-repeat: no-repeat;
+          background-position: right;
+          font-size: 14px;
+
+
+      }
+      .editable a {
+            color:#fff1d3;
+      }
+      .editable table td{
+          background-color:  #515151 !important;
+          border: 2px solid #9f9f9f;
+          padding: 2px;
+      }
+      .caption-cta
+      {
+          text-align: center;
+      }
+
+      .remo-submit{
+        width: 100%;
+        margin-top: 10px
+      }
+
+      .remo-reset{
+        width: 100%;
+      }
+      .moz-select-nathan{
+          transition: outline .3s;
+          outline: 1px solid #1a1a1a;
+          display: inline-block;
+          background-color: #333;
+          background-image: url('../../img/activities/arrow-down.png');
+          background-position: right center;
+          background-repeat: no-repeat;
+          background-size: 36px 35px;
+          width: 30%;
+          background-color:#333333;
+          vertical-align: baseline;
+          overflow: hidden;
+      }
+      .activities-content-banner{
+        text-align: center;
+      padding: 20px;
+      width: 100%;
+      margin: 0 auto;
+      }
+      .nathan-activities-content{
+          width: 100%;
+        margin:0 auto;
+      }
+      .nathan-content-label{
+        margin-bottom: 20px;
+     padding-bottom: 28px;
+     border-bottom: 1px solid #272727;
+     line-height: 18px;
+     text-align: left;
+     padding-top: 15px;
+     width:100%;
+     margin:0 auto;
+      }
+      .activitiescontentbody{
+        width: 100%; margin: 0 auto;
+      }
+      .withdrawtextalign{
+        text-align: justify;
+        margin-bottom: 20px;
+      }
+
+      .myacounttextalign{
+        text-align: justify;
+        margin-bottom: 20px;
+        border-bottom: 1px solid #333;
+        padding-bottom: 10px;
+      }
+
+    }
+    @media only screen and (min-width : 360px) {
+      .nathan-dollarsign{
+    font-size:  23px;
+    margin-right: 0px;
+    margin-left: 10px;
+    float: left;
+      }
+      .nathan-winner{
+        float: right;
+      margin-left: 6px;
+      margin-right: 67px;
+      margin-top: 2px;
+      }
+      .nathan-jackpot{
+        margin: 0 auto;
+
+            margin-bottom: 30px;
+
+      }
+      .nathan-jackpotimage{
+        margin-top: 6px;
+        float: left;
+        margin-left: 9px;
+      }
+      .jumbo{
+        margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    font-size: 23px;
+    font-weight: 300;
+    letter-spacing: 1px;
+      }
+      .nathan-USER{
+        font-size: 15px;
+      letter-spacing: 1px;
+      margin-top: 5px;
+      margin-left: 11px;
+      }
+
+      .nathan-myaccountusernamecontent{
+        color:#fcf8e3;
+        margin-bottom: 20px;
+      }
+
+    }
+    @media only screen and (min-width : 375px) {
+      .nathan-dollarsign{
+    font-size:  23px;
+        margin-right: 0px;
+    margin-left: 10px;
+    float: left;
+      }
+      .nathan-winner{
+        float: right;
+        margin-left: 6px;
+        margin-right: 5px;
+        margin-top: 2px;
+      }
+      .nathan-jackpot{
+        margin: 0 auto;
+
+            margin-bottom: 30px;
+      }
+      .nathan-jackpotimage{
+        margin-top: 6px;
+        float: left;
+        margin-left: 16px;
+      }
+      .jumbo{
+        margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    font-size: 23px;
+    font-weight: 300;
+    letter-spacing: 1px;
+      }
+      .nathan-USER{
+        font-size: 12px;
+      letter-spacing: 1px;
+      margin-top: 5px;
+      margin-left: 11px;
+      }
+
+      .nathan-myaccountusernamecontent{
+        color:#fcf8e3;
+        margin-bottom: 20px;
+      }
+
+    }
+    @media only screen and (min-width : 412px) {
+      .nathan-dollarsign{
+    font-size:  23px;
+
+    margin-left: 10px;
+      margin-right: -23px;
+    float: left;
+      }
+      .nathan-winner{
+        float: right;
+        margin-left: 6px;
+    margin-right: 25px;
+        margin-top: 2px;
+      }
+      .nathan-jackpot{
+        margin: 0 auto;
+
+            margin-bottom: 30px;
+      }
+      .nathan-jackpotimage{
+        margin-top: 6px;
+        float: left;
+        margin-left: 30px;
+      }
+      .jumbo{
+        margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    font-size: 23px;
+    font-weight: 300;
+    letter-spacing: 1px;
+      }
+      .nathan-USER{
+        font-size: 12px;
+      letter-spacing: 1px;
+      margin-top: 5px;
+      margin-left: 11px;
+      }
+
+      .nathan-myaccountusernamecontent{
+        color:#fcf8e3;
+        margin-bottom: 20px;
+      }
+
+    }
+  @media only screen and (min-width : 414px) {
+    .nathan-dollarsign{
+  font-size:  23px;
+  margin-left: 10px;
+    margin-right: -23px;
+  float: left;
+    }
+    .nathan-winner{
+      float: right;
+      margin-left: 6px;
+      margin-right: 5px;
+      margin-top: 2px;
+    }
+    .nathan-jackpot{
+      margin: 0 auto;
+
+          margin-bottom: 50px;
+    }
+    .nathan-jackpotimage{
+      margin-top: 6px;
+      float: left;
+      margin-left: 42px;
+    }
+    .jumbo{
+      margin: 0 auto;
+  text-align: center;
+  color: #fff;
+  font-size: 23px;
+  font-weight: 300;
+  letter-spacing: 1px;
+    }
+    .nathan-USER{
+      font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 5px;
+    margin-left: 11px;
+    }
+
+    .nathan-myaccountusernamecontent{
+      color:#fcf8e3;
+      margin-bottom: 20px;
+    }
+    .editable ul li {
+        list-style: none;
+        border-top: 1px solid #333;
+        padding-top: 8px;
+        margin-bottom: 2px;
+        padding-bottom: 5px;
+        margin-left: -40px;
+        background-image: url('../../img/rules/arrow-down.png');
+        background-size: 25px 25px;
+        background-repeat: no-repeat;
+        background-position: right;
+        font-size: 14px;
+
+
+    }
+    .editable a {
+          color:#fff1d3;
+    }
+    .editable table td{
+        background-color:  #515151 !important;
+        border: 2px solid #9f9f9f;
+        padding: 2px;
+    }
+    .caption-cta
+    {
+        text-align: center;
+    }
+
+    .remo-submit{
+      width: 100%;
+      margin-top: 10px
+    }
+
+    .remo-reset{
+      width: 100%;
+    }
+    .moz-select-nathan{
+        transition: outline .3s;
+        outline: 1px solid #1a1a1a;
+        display: inline-block;
+        background-color: #333;
+        background-image: url('../../img/activities/arrow-down.png');
+        background-position: right center;
+        background-repeat: no-repeat;
+        background-size: 36px 35px;
+        width: 30%;
+        background-color:#333333;
+        vertical-align: baseline;
+        overflow: hidden;
+    }
+    .activities-content-banner{
+      text-align: center;
+    padding: 20px;
+    width: 100%;
+    margin: 0 auto;
+    }
+    .nathan-activities-content{
+        width: 100%;
+      margin:0 auto;
+    }
+    .nathan-content-label{
+      margin-bottom: 20px;
+   padding-bottom: 28px;
+   border-bottom: 1px solid #272727;
+   line-height: 18px;
+   text-align: left;
+   padding-top: 15px;
+   width:100%;
+   margin:0 auto;
+    }
+    .activitiescontentbody{
+      width: 100%; margin: 0 auto;
+    }
+    .withdrawtextalign{
+      text-align: justify;
+      margin-bottom: 20px;
+    }
+
+    .myacounttextalign{
+      text-align: justify;
+      margin-bottom: 20px;
+      border-bottom: 1px solid #333;
+      padding-bottom: 10px;
+    }
+  }
+
+    /* Extra Small Devices, Phones */
+    @media only screen and (min-width : 480px) {
+
+
+      .editable ul li {
+          list-style: none;
+          border-top: 1px solid #333;
+          padding-top: 8px;
+          margin-bottom: 2px;
+          padding-bottom: 5px;
+          margin-left: -40px;
+          background-image: url('../../img/rules/arrow-down.png');
+          background-size: 25px 25px;
+          background-repeat: no-repeat;
+          background-position: right;
+          font-size: 14px;
+
+
+      }
+      .editable a {
+            color:#fff1d3;
+      }
+      .editable table td{
+          background-color:  #515151 !important;
+          border: 2px solid #9f9f9f;
+          padding: 2px;
+      }
+      .moz-select-nathan{
+          transition: outline .3s;
+          outline: 1px solid #1a1a1a;
+          display: inline-block;
+          background-color: #333;
+          background-image: url('../../img/activities/arrow-down.png');
+          background-position: right center;
+          background-repeat: no-repeat;
+          background-size: 36px 35px;
+          width: 30%;
+          background-color:#333333;
+          vertical-align: baseline;
+          overflow: hidden;
+      }
+      .activities-content-banner{
+        text-align: center;
+      padding: 20px;
+      width: 100%;
+      margin: 0 auto;
+      }
+      .nathan-activities-content{
+          width: 100%;
+        margin:0 auto;
+      }
+      .nathan-content-label{
+        margin-bottom: 20px;
+     padding-bottom: 28px;
+     border-bottom: 1px solid #272727;
+     line-height: 18px;
+     text-align: left;
+     padding-top: 15px;
+     width:100%;
+     margin:0 auto;
+      }
+      .activitiescontentbody{
+        width: 100%; margin: 0 auto;
+      }
+      .remo-submit{
+        margin-top: 10px
+      }
+      .withdrawtextalign{
+        text-align: justify;
+        margin-bottom: 20px;
+      }
+      .myacounttextalign{
+        text-align: justify;
+        margin-bottom: 20px;
+        border-bottom: 1px solid #333;
+        padding-bottom: 10px;
+      }
+    }
+    @media only screen and (min-width : 667px) {
+      .nathan-dollarsign{
+    font-size:  21px;
+    margin-left: 2px;
+    margin-right: 2px
+      }
+      .nathan-winner{
+        float: right;
+        margin-left: 6px;
+        margin-right: -12px;
+        margin-top: 2px;
+      }
+      .nathan-jackpot{
+        margin: 0 auto;
+        width: 748px;
+        margin-bottom: 50px;
+        /* margin-right: 23px; */
+        margin-left: -36px;
+      }
+      .nathan-jackpotimage{
+      margin-top: 6px;
+      }
+      .jumbo{
+        margin: 0 auto;
+        text-align: center;
+        color: #fff;
+        font-size: 21px;
+        font-weight: 300;
+      letter-spacing: 1px;
+      }
+      .nathan-USER{
+        font-size: 15px;
+        letter-spacing: 1px;
+        margin-top: 5px;
+        margin-left: 0px;
+    }
+  }
+  @media only screen and (min-width : 736px) {
+    .nathan-dollarsign{
+  font-size:  21px;
+  margin-left: 2px;
+  margin-right: 2px
+    }
+    .nathan-winner{
+      float: right;
+      margin-left: 6px;
+      margin-right: -12px;
+      margin-top: 2px;
+    }
+    .nathan-jackpot{
+      margin: 0 auto;
+      display: flex;
+      width: 748px;
+      margin-bottom: 50px;
+      /* margin-right: 23px; */
+      margin-left: -36px;
+    }
+    .nathan-jackpotimage{
+    margin-top: 6px;
+    }
+    .jumbo{
+      margin: 0 auto;
+      text-align: center;
+      color: #fff;
+      font-size: 21px;
+      font-weight: 300;
+    letter-spacing: 1px;
+    }
+    .nathan-USER{
+      font-size: 15px;
+      letter-spacing: 1px;
+      margin-top: 5px;
+      margin-left: 0px;
+  }
+}
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+      .nathan-dollarsign{
+    font-size:  23px;
+    margin-left: 10px;
+    margin-right: 2px
+      }
+      .nathan-winner{
+        float: right;
+        margin-left: 6px;
+        margin-right: -12px;
+        margin-top: 2px;
+      }
+      .nathan-jackpot{
+        margin: 0 auto;
+        display: flex;
+        width: 783px;
+        margin-bottom: 50px;
+        margin-right: 23px;
+        margin-left: -33px;
+      }
+      .nathan-jackpotimage{
+      margin-top: 6px;
+      }
+      .jumbo{
+        margin: 0 auto;
+        text-align: center;
+        color: #fff;
+        font-size: 23px;
+        font-weight: 300;
+      letter-spacing: 1px;
+      }
+      .nathan-USER{
+        font-size: 15px;
+        letter-spacing: 1px;
+        margin-top: 5px;
+        margin-left: 7px;
+      }
+
+      .nathan-myaccountusernamecontent{
+        color:#fcf8e3;
+        margin-bottom: 20px;
+      }
+      .editable ul li {
+          list-style: none;
+          border-top: 0px solid #333;
+          background-image: url('');
+          background-position: right center;
+          background-repeat: no-repeat;
+          padding-top: 8px;
+          margin-bottom: 2px;
+          padding-bottom: 5px;
+          margin-left: -40px;
+          background-size: 25px 25px;
+          background-repeat: no-repeat;
+          background-position: right;
+          font-size: 14px;
+      }
+      .editable a {
+            color:#fff1d3;
+      }
+      .editable table td{
+          background-color:  #515151 !important;
+          border: 2px solid #9f9f9f;
+          padding: 2px;
+      }
+      .remo-contactus-list ul
+      {
+          display: inline-block;
+          text-align: center;
+      }
+
+      .remo-form-footer{
+        text-align: left
+      }
+
+      .remo-submit{
+        margin-top: 0px
+      }
+      .moz-select-nathan{
+          transition: outline .3s;
+          outline: 1px solid #1a1a1a;
+          display: inline-block;
+          background-color: #333;
+          background-image: url('../../img/activities/arrow-down.png');
+          background-position: right center;
+          background-repeat: no-repeat;
+          background-size: 36px 35px;
+          width:30%;
+          background-color:#333333;
+          vertical-align: baseline;
+          overflow: hidden;
+      }
+      .activities-content-banner{
+        text-align: center;
+      padding: 20px;
+        width: 700px;
+      margin: 0 auto;
+      }
+      .nathan-activities-content{
+          width: 600px;
+        margin:0 auto;
+      }
+      .nathan-content-label{
+        margin-bottom: 20px;
+     padding-bottom: 28px;
+     border-bottom: 1px solid #272727;
+     line-height: 18px;
+     text-align: left;
+     padding-top: 15px;
+     width:570px;
+     margin:0 auto;
+      }
+      .activitiescontentbody{
+        width: 80%; margin: 0 auto;
+      }
+      .withdrawtextalign{
+        text-align: center;
+        margin-bottom: 10px;
+      }
+      .myacounttextalign{
+        text-align: justify;
+        margin-bottom: 20px;
+        border-bottom: 1px solid #333;
+        padding-bottom: 10px;
+      }
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+      .nathan-winner{
+
+      }
+      .nathan-jackpot{
+        margin: 0 auto;
+            display: flex;
+            width: 880px;
+            margin-bottom: 50px;
+      }
+      .nathan-jackpotimage{
+      margin-top: 15px;
+      }
+      .jumbo{
+        margin: 0 auto;
+        text-align: center;
+        color: #fff;
+        font-size: 33px;
+        font-weight: 700;
+      letter-spacing: 1px;
+      }
+      .nathan-USER{
+        font-size: 20px;
+      letter-spacing: 1px;
+      margin-top: 8px;
+      margin-left: 0px;
+      }
+
+      .nathan-myaccountusernamecontent{
+        color:#fcf8e3;
+        margin-bottom: 20px;
+      }
+      .editable ul li {
+          list-style: none;
+          border-top: 0px solid #333;
+          background-image: url('');
+          background-position: right center;
+          background-repeat: no-repeat;
+          padding-top: 8px;
+          margin-bottom: 2px;
+          padding-bottom: 5px;
+          margin-left: -40px;
+          background-size: 25px 25px;
+          background-repeat: no-repeat;
+          background-position: right;
+          font-size: 14px;
+      }
+      .editable a {
+            color:#fff1d3;
+      }
+      .editable table td{
+          background-color:  #515151 !important;
+          border: 2px solid #9f9f9f;
+          padding: 2px;
+      }
+      .remo-form.remo-login
+      {
+          padding: 15px 35px 25px 35px;
+
+          border: solid 0px #333;
+      }
+
+      .remo-submit{
+        margin-top: 0px
+      }
+      .moz-select-nathan{
+          transition: outline .3s;
+          outline: 1px solid #1a1a1a;
+          display: inline-block;
+          background-color: #333;
+          background-image: url('../../img/activities/arrow-down.png');
+          background-position: right center;
+          background-repeat: no-repeat;
+          background-size: 36px 35px;
+          width: 10%;
+          background-color:#333333;
+          vertical-align: baseline;
+          overflow: hidden;
+      }
+      .activities-content-banner{
+        text-align: center;
+      padding: 20px;
+      width: 80%;
+      margin: 0 auto;
+      }
+      .nathan-activities-content{
+          width: 50%;
+        margin:0 auto;
+      }
+      .nathan-content-label{
+        margin-bottom: 20px;
+     padding-bottom: 28px;
+     border-bottom: 1px solid #272727;
+     line-height: 18px;
+     text-align: left;
+     padding-top: 15px;
+     width:570px;
+     margin:0 auto;
+      }
+      .activitiescontentbody{
+        width: 50%; margin: 0 auto;
+      }
+      .withdrawtextalign{
+        text-align: center;
+        margin-bottom: 10px;
+      }
+      .myacounttextalign{
+        text-align: justify;
+        margin-bottom: 20px;
+        border-bottom: 1px solid #333;
+        padding-bottom: 10px;
+      }
+    }
+/* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1024px) {
+      .nathan-dollarsign{
+    font-size:  33px;
+    margin-left: 10px;
+    margin-right: 2px
+      }
+      .nathan-winner{
+
+      }
+      .nathan-jackpot{
+        margin: 0 auto;
+            display: flex;
+            width: 924px;
+            margin-bottom: 50px;
+      }
+      .nathan-jackpotimage{
+      margin-top: 15px;
+      }
+      .jumbo{
+        margin: 0 auto;
+        text-align: center;
+        color: #fff;
+        font-size: 33px;
+        font-weight: 700;
+      letter-spacing: 1px;
+      }
+      .nathan-USER{
+        font-size: 20px;
+      letter-spacing: 1px;
+      margin-top: 8px;
+      margin-left: 7px;
+      }
+
+      .nathan-myaccountusernamecontent{
+        color:#fcf8e3;
+        margin-bottom: 20px;
+      }
+      .editable ul li {
+          list-style: none;
+          border-top: 0px solid #333;
+          background-image: url('');
+          background-position: right center;
+          background-repeat: no-repeat;
+          padding-top: 8px;
+          margin-bottom: 2px;
+          padding-bottom: 5px;
+          margin-left: -40px;
+          background-size: 25px 25px;
+          background-repeat: no-repeat;
+          background-position: right;
+          font-size: 14px;
+      }
+      .editable a {
+            color:#fff1d3;
+      }
+      .editable table td{
+          background-color:  #515151 !important;
+          border: 2px solid #9f9f9f;
+          padding: 2px;
+      }
+      .moz-select-nathan{
+          transition: outline .3s;
+          outline: 1px solid #1a1a1a;
+          display: inline-block;
+          background-color: #333;
+          background-image: url('../../img/activities/arrow-down.png');
+          background-position: right center;
+          background-repeat: no-repeat;
+          background-size: 36px 35px;
+          width: 10%;
+          background-color:#333333;
+          vertical-align: baseline;
+          overflow: hidden;
+      }
+      .activities-content-banner{
+        text-align: center;
+      padding: 20px;
+        width: 1000px;
+      margin: 0 auto;
+      }
+      .nathan-activities-content{
+        width: 50%;
+        margin:0 auto;
+      }
+      .nathan-content-label{
+        margin-bottom: 20px;
+        padding-bottom: 28px;
+        border-bottom: 1px solid #272727;
+        line-height: 18px;
+        text-align: left;
+        padding-top: 15px;
+        width:100%;
+        margin:0 auto;
+      }
+      .activitiescontentbody
+      {
+        width: 50%; margin: 0 auto;
+      }
+      .withdrawtextalign
+      {
+        text-align: center;
+        margin-bottom: 10px;
+      }
+      .myacounttextalign
+      {
+        text-align: justify;
+        margin-bottom: 20px;
+        border-bottom: 1px solid #333;
+        padding-bottom: 10px;
+      }
+      .nathan-dollarsign{
+    font-size:  33px;
+    margin-left: 10px;
+    margin-right: 2px
+      }
+    }
+
+
+    @media only screen and (min-width : 1200px)
+    {
+
+      .nathan-winner{
+        float: right;
+        margin-left: 6px;
+        margin-right: -12px;
+        margin-top: 2px;
+      }
+
+      .nathan-jackpot{
+        margin: 0 auto;
+            display: flex;
+            width: 929px;
+            margin-bottom: 50px;
+      }
+      .nathan-jackpotimage{
+      margin-top: 15px;
+      }
+      .nathan-dollarsign{
+    font-size:  33px;
+    margin-left: 10px;
+    margin-right: -21px;
+      }
+      .jumbo{
+        margin: 0 auto;
+        text-align: center;
+        color: #fff;
+        font-size: 33px;
+        font-weight: 700;
+      letter-spacing: 1px;
+      margin-left: 25px
+      }
+      .nathan-USER{
+        font-size: 20px;
+      letter-spacing: 1px;
+      margin-top: 9px;
+      margin-left: 0px;
+      }
+
+      .nathan-myaccountusernamecontent{
+        color:#fcf8e3;
+        margin-bottom: 20px;
+      }
+      .editable ul li {
+          list-style: none;
+          border-top: 0px solid #333;
+          background-image: url('');
+          background-position: right center;
+          background-repeat: no-repeat;
+          padding-top: 8px;
+          margin-bottom: 2px;
+          padding-bottom: 5px;
+          margin-left: -40px;
+          background-size: 25px 25px;
+          background-repeat: no-repeat;
+          background-position: right;
+          font-size: 14px;
+          margin: 0 auto;
+      }
+      .editable a {
+            color:#fff1d3;
+      }
+      .editable table td
+      {
+          background-color:  #515151 !important;
+          border: 2px solid #9f9f9f;
+          padding: 2px;
+      }
+      .moz-select-nathan
+      {
+          transition: outline .3s;
+          outline: 1px solid #1a1a1a;
+          display: inline-block;
+          background-color: #333;
+          background-image: url('../../img/activities/arrow-down.png');
+          background-position: right center;
+          background-repeat: no-repeat;
+          background-size: 36px 35px;
+          width: 10%;
+          background-color:#333333;
+          vertical-align: baseline;
+          overflow: hidden;
+      }
+      .activities-content-banner
+      {
+        text-align: center;
+        padding: 20px;
+        width: 1000px;
+        margin: 0 auto;
+      }
+      .nathan-activities-content
+      {
+        width: 1000px;
+        margin:0 auto;
+      }
+      .nathan-content-label
+      {
+        margin-bottom: 20px;
+        padding-bottom: 28px;
+        border-bottom: 1px solid #272727;
+        line-height: 18px;
+        text-align: left;
+        padding-top: 15px;
+        width:570px;
+        margin:0 auto;
+      }
+
+      .activitiescontentbody
+      {
+        width: 700px; margin: 0 auto;
+      }
+
+    .withdrawtextalign{
+      text-align: center;
+      margin-bottom: 10px;
+    }
+
+    .myacounttextalign{
+      text-align: justify;
+      margin-bottom: 20px;
+      border-bottom: 1px solid #333;
+      padding-bottom: 10px;
+    }
+
+    }
